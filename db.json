@@ -49,7 +49,7 @@
       {
         "id": 1,
         "nome": "Combo VIP + Estacionamento",
-        "descricao": "Ingresso VIP com direito a vaga garantida no estacionamento do local do evento",
+        "descricao": "httphttps://laautoshow.com/wp-content/uploads/2025/11/LAAS-The-Underground.jpg",
         "foto": "https://images.unsplash.com/photo-1506157786151-b8491531f063?w=75&h=75&fit=crop",
         "valor": 80,
         "eh_novidade": true
@@ -58,7 +58,7 @@
         "id": 2,
         "nome": "Kit Foto Oficial",
         "descricao": "Sessão de fotos profissional no evento com entrega digital em até 48h",
-        "foto": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=75&h=75&fit=crop",
+        "foto": "https://i.pinimg.com/originals/8b/c0/49/8bc04958909f489c3d4eb56c55f75e7a.jpg",
         "valor": 50,
         "eh_novidade": false
       }
@@ -68,7 +68,7 @@
         "id": 1,
         "nome": "Camiseta Oficial do Evento",
         "descricao": "",
-        "foto": "https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?w=75&h=75&fit=crop",
+        "foto": "https://us.123rf.com/450wm/angelp/angelp1611/angelp161101127/68887650-t-shirt-icon-black-background-with-white-vector-illustration.jpg",
         "valor": 60,
         "eh_novidade": false
       },
@@ -76,7 +76,7 @@
         "id": 2,
         "nome": "Estacionamento Reservado",
         "descricao": "",
-        "foto": "https://images.unsplash.com/photo-1506521781263-d8422e82f27a?w=75&h=75&fit=crop",
+        "foto": "httphttps://laautoshow.com/wp-content/uploads/2025/11/LAAS-The-Underground.jpg",
         "valor": 30,
         "eh_novidade": false
       },
@@ -84,7 +84,7 @@
         "id": 3,
         "nome": "Meet & Greet",
         "descricao": "",
-        "foto": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=75&h=75&fit=crop",
+        "foto": "https://media.istockphoto.com/id/813637356/pt/foto/red-carpet-and-barrier.jpg?s=612x612&w=0&k=20&c=3-V1vRGocx-ps6MRgu4advzlh-8uXKzb-Bu3QI95LwQ=",
         "valor": 150,
         "eh_novidade": true
       },
@@ -92,7 +92,7 @@
         "id": 4,
         "nome": "Seguro do Ingresso",
         "descricao": "",
-        "foto": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=75&h=75&fit=crop",
+        "foto": "https://cdn-icons-png.flaticon.com/512/10703/10703049.png",
         "valor": 20,
         "eh_novidade": false
       }
@@ -102,8 +102,8 @@
     "destaque": [
       {
         "id": 1,
-        "nome": "Rock in Rio 2025",
-        "foto": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=75&h=75&fit=crop",
+        "nome": "Rock in Rio 2026",
+        "foto": "https://i0.wp.com/www.wikimetal.com.br/wp-content/uploads/2024/08/Rock-in-Rio.png",
         "descricao": "O maior festival de música do mundo está de volta! Cinco dias de shows internacionais com os maiores artistas do planeta no Parque Olímpico, Rio de Janeiro.",
         "valor": 350,
         "eh_novidade": true
@@ -113,7 +113,7 @@
       {
         "id": 1,
         "nome": "Lollapalooza Brasil",
-        "foto": "https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?w=75&h=75&fit=crop",
+        "foto": "https://portalpopline.com.br/wp-content/uploads/2021/10/lollapalooza-brasil-2022.jpg",
         "descricao": "Festival multimídia com atrações nacionais e internacionais por três dias seguidos no Autódromo de Interlagos, São Paulo.",
         "valor": 280,
         "eh_novidade": true
@@ -121,7 +121,7 @@
       {
         "id": 2,
         "nome": "Festival Tomorrowland Brasil",
-        "foto": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=75&h=75&fit=crop",
+        "foto": "https://cdn.uc.assets.prezly.com/f2916d21-715f-4068-8211-e27553bd602f/",
         "descricao": "A maior festa de música eletrônica do mundo chega ao Brasil com DJs renomados e uma produção de palco incomparável.",
         "valor": 320,
         "eh_novidade": true
@@ -129,7 +129,7 @@
       {
         "id": 3,
         "nome": "Show: Coldplay",
-        "foto": "https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec?w=75&h=75&fit=crop",
+        "foto": "https://vivacoldplay.com/wp-content/uploads/2024/10/header-One-World-768x500-1-768x868.jpg",
         "descricao": "A banda britânica Coldplay retorna ao Brasil com o Music of the Spheres World Tour, uma experiência visual e sonora única no Estádio Nilton Santos.",
         "valor": 420,
         "eh_novidade": true
@@ -137,7 +137,7 @@
       {
         "id": 4,
         "nome": "Comic Con Experience",
-        "foto": "https://images.unsplash.com/photo-1608889825205-eebdb9fc5806?w=75&h=75&fit=crop",
+        "foto": "https://seeklogo.com/images/S/san-diego-comic-con-international-logo-93F5322E8F-seeklogo.com.png",
         "descricao": "O maior evento de cultura pop da América Latina traz painéis exclusivos, exposições, lançamentos e encontros com celebridades no São Paulo Expo.",
         "valor": 180,
         "eh_novidade": true
@@ -145,7 +145,7 @@
       {
         "id": 5,
         "nome": "Primavera Sound São Paulo",
-        "foto": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=75&h=75&fit=crop",
+        "foto": "https://portalpopline.com.br/wp-content/uploads/2022/04/Primavela-Sound.jpg",
         "descricao": "Festival de música independente com curadoria internacional celebrando diversidade musical e artística no Parque Estadual da Cantareira.",
         "valor": 260,
         "eh_novidade": true
@@ -153,7 +153,7 @@
       {
         "id": 6,
         "nome": "Show: Ivete Sangalo",
-        "foto": "https://images.unsplash.com/photo-1540039155733-5bb30b4a68a7?w=75&h=75&fit=crop",
+        "foto": "https://live.staticflickr.com/4318/36213081666_dec256676a_b.jpg",
         "descricao": "A rainha do axé se apresenta em show especial comemorativo de 30 anos de carreira com repertório clássico e participações especiais na Arena Fonte Nova.",
         "valor": 190,
         "eh_novidade": true
@@ -161,7 +161,7 @@
       {
         "id": 7,
         "nome": "Anime Friends",
-        "foto": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=75&h=75&fit=crop",
+        "foto": "https://upload.wikimedia.org/wikipedia/pt/c/c7/Anime_Friends_20_anos_logo_e_mascote.jpg",
         "descricao": "O maior evento de cultura japonesa do Brasil com cosplays, painéis, autógrafos e exposições de mangás e animes no Expo Center Norte.",
         "valor": 120,
         "eh_novidade": true
