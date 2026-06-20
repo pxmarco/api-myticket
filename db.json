@@ -101,7 +101,7 @@
   "menu": {
     "destaque": [
       {
-        "id": 1,
+        "id": 0,
         "nome": "Rock in Rio 2026",
         "foto": "https://i0.wp.com/www.wikimetal.com.br/wp-content/uploads/2024/08/Rock-in-Rio.png",
         "descricao": "O maior festival de música do mundo está de volta! Cinco dias de shows internacionais com os maiores artistas do planeta no Parque Olímpico, Rio de Janeiro.",
@@ -137,7 +137,7 @@
       {
         "id": 4,
         "nome": "Comic Con Experience",
-        "foto": "https://seeklogo.com/images/S/san-diego-comic-con-international-logo-93F5322E8F-seeklogo.com.png",
+        "foto": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/34ad6f19924635.5c60392c90caf.jpg",
         "descricao": "O maior evento de cultura pop da América Latina traz painéis exclusivos, exposições, lançamentos e encontros com celebridades no São Paulo Expo.",
         "valor": 180,
         "eh_novidade": true
@@ -161,7 +161,7 @@
       {
         "id": 7,
         "nome": "Anime Friends",
-        "foto": "https://upload.wikimedia.org/wikipedia/pt/c/c7/Anime_Friends_20_anos_logo_e_mascote.jpg",
+        "foto": "https://papogeek.com.br/wp-content/uploads/2024/06/anime-friends-1.jpg",
         "descricao": "O maior evento de cultura japonesa do Brasil com cosplays, painéis, autógrafos e exposições de mangás e animes no Expo Center Norte.",
         "valor": 120,
         "eh_novidade": true
